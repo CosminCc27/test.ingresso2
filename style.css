@@ -1,0 +1,88 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-image: url(backg.jpg);
+  background-size: cover;
+}
+
+.quadrato{
+  width: 850px;
+  height: 650px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px 10px 10px 10px;
+  background-color:rgba(0,0,0,0.5);
+}
+
+.intestazione{
+  width: 300px;
+  margin: auto;
+}
+
+img{
+  width: 170px;
+  margin: 75px 50px 1px 65px;
+}
+
+.titolo{
+  color: #00ff00;
+  text-align: center;
+  font-size: 10px;
+}
+
+.opzioni{
+  display: inline-block;
+  width: 700px;
+  height: 25px;
+  background-color: #00ff00;
+  margin-left: 70px;
+  margin-right: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+span > button{
+  font-size: 9px;
+  margin: auto;
+}
+
+.principale{
+  margin-left: 70px;
+}
+
+
+.nome{
+  font-size: 17px;
+  color: white;
+}
+
+.testo{
+  color: white;
+  font-size: 10px;
+}
+
+.carica1{
+  background-color: #f1d654;
+  width: 250px;
+  height: 20px;
+  border-radius: 3px 3px 3px 3px;
+}
+
+.carica2{
+  background-color: #00bb2d;
+  width: 400px;
+  height: 20px;
+  border-radius: 3px 3px 3px 3px;
+}
+
+.carica3{
+  background-color: #cb3234;
+  width: 100px;
+  height: 20px;
+  border-radius: 3px 3px 3px 3px;
+}
+
+footer{
+  color: white;
+}
